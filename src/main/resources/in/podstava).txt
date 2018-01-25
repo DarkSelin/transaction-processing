@@ -1,0 +1,40 @@
+Log time: Sun, 24 Jul 2016 12:40:05 GMT
+
+
+Log time: Sun, 24 Jul 2016 13:10:05 GMT
+ Asset id: 307
+ Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+ Captured transactions: None
+
+
+Log time: Wed, 27 Jul 2016 13:10:08 GMT
+ Asset id: 266
+ Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+ Captured transactions: None
+ Asset id: 321
+ Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+ Captured transactions: None
+ Asset id: 335
+ Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+ Captured transactions: None
+
+
+Log time: Wed, 10 Aug 2016 20:52:17 GMT
+
+
+Log time: Wed, 10 Aug 2016 21:22:17 GMT
+
+
+Log time: Wed, 10 Aug 2016 21:52:16 GMT
+ Asset id: 266
+ Captured transactions: 
+  DBox-1,DBox-2
+ Asset id: 274
+ Captured transactions: 
+  SForce-1,SForce-2
+ Asset id: 307
+ Captured transactions: 
+  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600
+ Asset id: 335
+ Captured transactions: 
+  AWS-1,AWS-2

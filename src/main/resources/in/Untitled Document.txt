@@ -1,0 +1,12 @@
+Log time: Thu, 18 Aug 2016 00:06:21 GMT
+ Asset id: 538
+ Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+ Captured transactions: 
+  O365-20,O365-43,O365-44,O365-445,O365-474,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600
+
+
+Log time: Thu, 18 Aug 2016 00:36:21 GMT
+ Asset id: 538
+ Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+ Captured transactions: 
+  O365-43,O365-44,O365-445,O365-507,O365-509,O365-519,O365-52,O365-53,O365-552,O365-600
